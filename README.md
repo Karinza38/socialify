@@ -1,4 +1,4 @@
-[![GitHub Socialify][socialify-image]][socialify-edit-link]
+ [[GitHub Socialify][socialify-image]][socialify-edit-link]
 
 Want your project to stand out? **Socialify** helps you showcase your project to the world by generating a beautiful project image like the one above!
 
